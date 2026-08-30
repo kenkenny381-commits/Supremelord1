@@ -46,10 +46,6 @@
 
 | Platform | Button |
 |----------|--------|
-| **Heroku** | <a href="https://dashboard.heroku.com/new?template=https://github.com/vinpink2/June-Ultra"><img src="https://img.shields.io/badge/HerokuHosting-6762A6?style=for-the-badge&logo=heroku&logoColor=white&logoSize=auto"/></a> |
-| **Railway** | <a href="https://railway.app/new"><img src="https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white&logoSize=auto"/></a> |
-| **Render** | <a href="https://render.com"><img src="https://img.shields.io/badge/Render-0099ff?style=for-the-badge&logo=render&logoColor=white&logoSize=auto"/></a> |
-| **CypherXHost** | <a href="https://platform.cypherx.store/register?ref=REPLI2955E16C9A"><img src="https://img.shields.io/badge/CypherXHosting-007BFF?style=for-the-badge&logo=cypherxhost&logoColor=white&logoSize=auto"/></a> |
 
 </div>
 
@@ -61,9 +57,9 @@
 
 | Method | Button |
 |--------|--------|
-| **Pair Code 1** | <a href="https://pair-junex.onrender.com/"><img src="https://img.shields.io/badge/Pair%20Code%20%231-1a1a4e?style=for-the-badge&logo=whatsapp&logoColor=white&logoSize=auto"/></a> |
-| **Pair Code 2** | <a href="https://pairjune.xwolf.space/"><img src="https://img.shields.io/badge/Pair%20Code%20%232-1a1a4e?style=for-the-badge&logo=whatsapp&logoColor=white&logoSize=auto"/></a> |
-| **QR Code** | <a href="7.herokuapp.com/qr"><img src="https://img.shields.io/badge/QR%20Code%20%233-1a1a4e?style=for-the-badge&logo=whatsapp&logoColor=Red&logoSize=auto"/></a> |
+| **Pair Code 1** | 
+| **Pair Code 2** | 
+| **QR Code** | 
 
 </div>
 
@@ -75,9 +71,9 @@
 
 | Platform | Link |
 |----------|------|
-| **WhatsApp Group** | <a href="https://whatsapp.com/channel/0029VbBzXBN2kNFoxm7LiG3Q"><img src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoSize=auto"/></a> |
-| **YouTube** | <a href="https://www.youtube.com/@Suprem_e_Lord"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&logoSize=auto"/></a> |
-| **Telegram** | <a href="t.me/supremLord"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto"/></a> |
+| **WhatsApp Group** | <a href="https://https://chat.whatsapp.com/FraGGSFD0DJD9dhvJXRhc0?s=cl&p=a&ilr=0"><img src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoSize=auto"/></a> |
+
+| **Telegram** | <a href="t.me/supremLord1"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto"/></a> |
 
 </div>
 
@@ -86,4 +82,4 @@
 <div align="center">
   <sub>Built with ❤️ by <a href="https://github.com/kenkenny381-commits/Supremelord1>Supreme</a></sub>
 </div>
-> 𝔟𝔶 𝔰𝔲𝔭𝔯𝔢𝔪𝔢 𝔩𝔬𝔯𝔡
+> 𝔟𝔶 SUPREME LORD
