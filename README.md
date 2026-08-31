@@ -1,5 +1,5 @@
 <h1 align="center">👑 SUPREME LORD 👑
-  <img src="supreme-lord.png" width="500" />
+
 </div>
 
 <div align="center">
