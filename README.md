@@ -14,8 +14,8 @@ Powered by Supreme Tech
 
 ### Quick Actions
 
-- **FORK REPO:** https://github.com/kenkenny381-commits/Supremelord1/fork
-- **DOWNLOAD ZIP:** https://github.com/kenkenny381-commits/Supremelord1/archive/refs/heads/main.zip
+- >*FORK REPO:*<a herf="https://github.com/kenkenny381-commits/Supremelord1/fork"
+- >*DOWNLOAD ZIP:*< https://github.com/kenkenny381-commits/Supremelord1/archive/refs/heads/main.zip"><image src=https://img.shields.io/badge/Download%20-2ea043?style=for-the-badge&logo=github&logoColor=white&logoSize=auto"/></a>*
 
 <p align="center">
 <a href="https://github.com/kenkenny381-commits/Supremelord1/fork"><img src="https://img.shields.io/badge/FORK%20REPO-24292e?style=for-the-badge&logo=github"/></a>
