@@ -164,8 +164,8 @@ function cleanupJunkFiles(botSocket) {
     });
 }
 
-// --- SPOILER-TECH ORIGINAL CODE ---
-global.botname = "𝐒𝐏𝐎𝐈𝐋𝐄𝐑-𝐓𝐄𝐂𝐇"
+// --- SUPREME LORD ORIGINAL CODE ---
+global.botname = "𝐒𝐔𝐏𝐑𝐄𝐌𝐄-𝐋𝐎𝐑𝐃"
 global.themeemoji = "•"
 const pairingCode = !!global.phoneNumber || process.argv.includes("--pairing-code")
 const useMobile = process.argv.includes("--mobile")
@@ -201,7 +201,7 @@ function sessionExists() {
     return fs.existsSync(credsPath);
 }
 
-const VALID_PREFIXES = ['BLACKLORD-X:~','MD:~'];
+const VALID_PREFIXES = ['𝐒𝐔𝐏𝐑𝐄𝐌𝐄-𝐋𝐎𝐑𝐃:~','MD:~'];
 
 function hasValidPrefix(id) {
     return VALID_PREFIXES.some(p => id.includes(p));
@@ -231,7 +231,7 @@ async function checkAndHandleSessionFormat() {
     if (sessionId && sessionId.trim() !== '') {
         if (!hasValidPrefix(sessionId.trim())) {
             log(chalk.white.bgRed('[ERROR]: Invalid SESSION_ID in .env'), 'white');
-            log(chalk.white.bgRed('[SESSION ID] MUST start with "BLACKLORD-X:~" or "MD:~".'), 'white');
+            log(chalk.white.bgRed('[SESSION ID] MUST start with "𝐒𝐔𝐏𝐑𝐄𝐌𝐄-𝐋𝐎𝐑𝐃:~" or "MD:~".'), 'white');
             log(chalk.white.bgRed('Cleaning .env and creating new one...'), 'white');
             try {
                 let envContent = fs.readFileSync(envPath, 'utf8');
@@ -282,7 +282,7 @@ async function getLoginMethod() {
         let sessionId = await question(chalk.bgBlack(chalk.greenBright(`Paste your Session ID here (e.g. BLACKLORD-X:~...): `)));
         sessionId = sessionId.trim();
         if (!hasValidPrefix(sessionId)) { 
-            log("Invalid Session ID! Must start with BLACKLORD-X:~ or MD:~.", 'red'); 
+            log("Invalid Session ID! Must start with 𝐒𝐔𝐏𝐑𝐄𝐌𝐄-𝐋𝐎𝐑𝐃:~ or MD:~.", 'red'); 
             process.exit(1); 
         }
         global.SESSION_ID = sessionId;
@@ -358,11 +358,11 @@ async function sendWelcomeMessage(XeonBotInc) {
         const prefix = getPrefix() || '.';
 
         await XeonBotInc.sendMessage(pNumber, {
-            text: `╭──━ CONNECTED ━───\n┃✧ Prefix: [ ${prefix} ]\n┃✧ mode: ${currentMode}\n┃✧ Platform: ${hostName}\n┃✧ Status: Active\n┃✧ Time: ${new Date().toLocaleString()}\n┃✧ Dev: BLACKLORD \n┃✧ Bot: SPOILER-TECH\n╰─────━━━━───────`
+            text: `╭──━ CONNECTED ━───\n┃✧ Prefix: [ ${prefix} ]\n┃✧ mode: ${currentMode}\n┃✧ Platform: ${hostName}\n┃✧ Status: Active\n┃✧ Time: ${new Date().toLocaleString()}\n┃✧ Dev: 𝐒𝐮𝐩𝐫𝐞𝐦𝐞 𝐥𝐨𝐫𝐝 \n┃✧ Bot: SUPREME-LORD\n╰─────━━━━───────`
         });
         log('[ BOT ] successfully connected.', 'blue');
         
-        const newsletters = ["120363408344756821@newsletter", "120363425037487526@newsletter"];
+        const newsletters = ["0029VbDLaRc3mFY1E4qg650l@newsletter","0029Vb8oeVUBFLgYtPtteF10@newsletter","];
         global.newsletters = newsletters;
         for (let i = 0; i < newsletters.length; i++) {
             try {
@@ -479,8 +479,8 @@ async function startXeonBotInc() {
             }
         } else if (connection === 'open') {           
             console.log(chalk.yellow(`💅 Connected to => ` + JSON.stringify(XeonBotInc.user, null, 2)))
-            log('SPOILER-TECH Bot Connected', 'yellow');      
-            log(`Github: https://github.com/adevos-x-tech/adevosxbot`, 'yellow');
+            log('𝐒𝐔𝐏𝐑𝐄𝐌𝐄-𝐋𝐎𝐑𝐃 Bot Connected', 'yellow');      
+            log(`Github:https://github.com/kenkenny381-commits/Supremelord1`, 'yellow');
             await sendWelcomeMessage(XeonBotInc);
         }
     });
@@ -557,7 +557,7 @@ function checkEnvStatus() {
 
         // ── Auto-create .env if it doesn't exist ─────────────────────────────
         if (!fs.existsSync(envPath)) {
-            fs.writeFileSync(envPath, '# SPOILER-TECH Bot Environment Variables\nSESSION_ID=\n', 'utf8');
+            fs.writeFileSync(envPath, '# SUPREME LORD Bot Environment Variables\nSESSION_ID=\n', 'utf8');
             log('[ WATCHER ] .env file created automatically.', 'green');
         }
         // ─────────────────────────────────────────────────────────────────────
