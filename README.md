@@ -1,4 +1,3 @@
-
 <h1 align="center">👑 SUPREME LORD 👑
 <div align="center">
   <img src="supreme-lord.png" width="500" />
