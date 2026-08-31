@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <h1>𝔸𝕚𝕫𝕖𝕟</h1>
+
   
 </p>
 
