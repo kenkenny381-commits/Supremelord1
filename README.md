@@ -1,4 +1,4 @@
-<p align="center">
+p align="center">
 <img src="https://raw.githubusercontent.com/kenkenny381-commits/Supremelord1/main/supreme.png" width="100%"/>
 </p>
 
@@ -25,7 +25,6 @@ Powered by Supreme Tech
 ### WhatsApp Group
 
 <p align="center">
-<a href="https://chat.whatsapp.com/FraGGSFD0DJD9dhvJXRhc0?s=cl&p=a&mlu=4"><img src="https://img.shields.io/badge/JOIN%20WHATSAPP%20GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-</p>
+<a href="https://chat.whatsapp.com/FraGGSFD0DJD9dhvJXRhc0?s=cl&p=a&mlu=4"><img src="https://img.shields.io/badge/JOIN%20WHATSAPP%20GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 
 <p align="center">Built with 💙 by Supreme Lord</p>
