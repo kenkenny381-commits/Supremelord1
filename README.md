@@ -1,82 +1,31 @@
-<h1 align="center">👑 SUPREME LORD 👑
-
-</div>
-
-<div align="center">
-
-  
+<p align="center">
+<img src="https://raw.githubusercontent.com/kenkenny381-commits/Supremelord1/main/supreme.png" width="100%"/>
 </p>
 
-  </a>
-</div>
+<h1 align="center">👑 SUPREME LORD 👑</h1>
+<h3 align="center">Aizen</h3>
 
-<div align="center"> 
-  <img src=https://i.ibb.co/rGHcMdfj/bafcc60698cb.jpg alt="SUPREME-LORD" height="450">
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=The+bot+supports+deployment;On+all+free+panels+easily" alt="Typing SVG" />
-</div>
+<p align="center">
+The bot supports deployment on all free panels easily<br>
+Powered by Supreme Tech
+</p>
 
 ---
 
-> Quick Actions
+### Quick Actions
 
-<div align="center">
+- **FORK REPO:** https://github.com/kenkenny381-commits/Supremelord1/fork
+- **DOWNLOAD ZIP:** https://github.com/kenkenny381-commits/Supremelord1/archive/refs/heads/main.zip
 
-| Action | Link |
-|--------|------|
-| **Fork Repository** | <a href="https://github.com/kenkenny381-commits/Supremelord1.git "><img src="https://img.shields.io/badge/Fork Repo%20-24292e?style=for-the-badge&logo=github&logoColor=white&logoSize=auto"/></a> |
-| **Download ZIP** | <a> "<a href="https://raw.githubusercontent.com/kenkenny381-commits/Supremelord1/main/supreme.png ">
-  <img src="https://img.shields.io/badge/Download%20ZIP-2ea043?style=for-the-badge&logo=github&logoColor=white" />
-</a> "><img src="https://img.shields.io/badge/Download%20-2ea043?style=for-the-badge&logo=github&logoColor=white&logoSize=auto"/></a> |
+<p align="center">
+<a href="https://github.com/kenkenny381-commits/Supremelord1/fork"><img src="https://img.shields.io/badge/FORK%20REPO-24292e?style=for-the-badge&logo=github"/></a>
+<a href="https://github.com/kenkenny381-commits/Supremelord1/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20ZIP-2ea043?style=for-the-badge&logo=github"/></a>
+</p>
 
-</div>
+### WhatsApp Group
 
----
+<p align="center">
+<a href="https://chat.whatsapp.com/FraGGSFD0DJD9dhvJXRhc0?s=cl&p=a&mlu=4"><img src="https://img.shields.io/badge/JOIN%20WHATSAPP%20GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</p>
 
-> 🌐 Deployment Options
-
-<div align="center">
-
-| Platform | Button | 
-|----------|--------|
-
-</div>
-
----
-
-> 🔑 Session & Pairing
-
-<div align="center">
-
-| Method | Button |
-|--------|--------|
-| **Pair Code 1** | 
-| **Pair Code 2** | 
-| **QR Code** | 
-
-</div>
-
----
-
-> 💬 Support & Community
-
-<div align="center">
-
-| Platform | Link |
-|----------|------|
-| **WhatsApp Group** | <a href="https://https://chat.whatsapp.com/FraGGSFD0DJD9dhvJXRhc0?s=cl&p=a&ilr=0"><img src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoSize=auto"/></a> |
-
-| **Telegram** | <a href="t.me/supremLord2"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto"/></a> |
-
-</div>
-
----
-
-<div align="center">
-  <sub>Built with🌀by<a href="https://github.com/kenkenny381-commits/Supremelord1>Supreme</a></sub>
-</div>
-> 𝔟𝔶 SUPREME LORD
+<p align="center">Built with 💙 by Supreme Lord</p>
