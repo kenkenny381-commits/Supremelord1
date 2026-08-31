@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <h1>SUPREME-LORD</h1>
+  <h1>𝔸𝕚𝕫𝕖𝕟</h1>
   
 </p>
 
@@ -33,8 +33,10 @@
 
 | Action | Link |
 |--------|------|
-| **Fork Repository** | <a href="https://github.com/Vinpink2/June-Ultra/fork"><img src="https://img.shields.io/badge/Fork Repo%20-24292e?style=for-the-badge&logo=github&logoColor=white&logoSize=auto"/></a> |
-| **Download ZIP** | <a href="https://github.com/Vinpink2/June_X_Ultra/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/Download%20-2ea043?style=for-the-badge&logo=github&logoColor=white&logoSize=auto"/></a> |
+| **Fork Repository** | <a href="https://github.com/kenkenny381-commits/Supremelord1.git "><img src="https://img.shields.io/badge/Fork Repo%20-24292e?style=for-the-badge&logo=github&logoColor=white&logoSize=auto"/></a> |
+| **Download ZIP** | <a href="<a href="https://github.com/kenkenny381-commits/Supremelord1/archive/refs/heads/main.zip">
+  <img src="https://img.shields.io/badge/Download%20ZIP-2ea043?style=for-the-badge&logo=github&logoColor=white" />
+</a> "><img src="https://img.shields.io/badge/Download%20-2ea043?style=for-the-badge&logo=github&logoColor=white&logoSize=auto"/></a> |
 
 </div>
 
@@ -44,7 +46,7 @@
 
 <div align="center">
 
-| Platform | Button |
+| Platform | Button | 
 |----------|--------|
 
 </div>
@@ -73,13 +75,13 @@
 |----------|------|
 | **WhatsApp Group** | <a href="https://https://chat.whatsapp.com/FraGGSFD0DJD9dhvJXRhc0?s=cl&p=a&ilr=0"><img src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoSize=auto"/></a> |
 
-| **Telegram** | <a href="t.me/supremLord1"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto"/></a> |
+| **Telegram** | <a href="t.me/supremLord2"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto"/></a> |
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/kenkenny381-commits/Supremelord1>Supreme</a></sub>
+  <sub>Built with🌀by<a href="https://github.com/kenkenny381-commits/Supremelord1>Supreme</a></sub>
 </div>
 > 𝔟𝔶 SUPREME LORD
