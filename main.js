@@ -326,8 +326,8 @@ const pendingCommand = require('./commands/pending');
 // Global settings
 /*━━━━━━━━━━━━━━━━━━━━*/
 global.packname = settings?.packname || "ADEVOS X";
-global.author = settings?.author || "𝐁𝐋𝐀𝐂𝐊𝐋𝐎𝐑𝐃-𝐗 ";
-global.channelLink = "https://whatsapp.com/channel/0029Vb6wIVU9Bb5w69FQvt0W";
+global.author = settings?.author || "𝐒𝐔𝐏𝐑𝐄𝐌𝐄 𝐋𝐎𝐑𝐃 ";
+global.channelLink = "https://whatsapp.com/channel/0029VbDLaRc3mFY1E4qg650l
 global.ytchanel = "";
 
 const channelInfo = {
@@ -335,8 +335,8 @@ const channelInfo = {
         forwardingScore: 1,
         isForwarded: false,
         forwardedNewsletterMessageInfo: {
-            newsletterJid: '120363408344756821@newsletter',
-            newsletterName: '𝐒𝐏𝐎𝐈𝐋𝐄𝐑-𝐓𝐄𝐂𝐇 ',
+            newsletterJid: '0029vb8oeVUBFLgYtptteF10   ,
+            newsletterName: '𝐒𝐔𝐏𝐑𝐄𝐌𝐄 𝐋𝐎𝐑𝐃 ',
             serverMessageId: -1
         }
     }
@@ -391,7 +391,7 @@ async function handleMessages(sock, messageUpdate, printLog) {
         /*━━━━━━━━━━━━━━━━━━━━*/
         // Dynamic prefix
         /*━━━━━━━━━━━━━━━━━━━━*/
-        const prefix     = getPrefix();
+        const prefix     = getPrefix(🌚);
         const isGroup    = chatId.endsWith('@g.us');
         const senderIsSudo = message.key.fromMe || await isOwnerOrSudo(senderId);
 
